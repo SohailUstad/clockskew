@@ -1,0 +1,8 @@
+<?php
+
+return [
+    'jwt' => [
+        'secret' => 'replace-with-at-least-32-random-characters',
+    ],
+    'cors_origins' => ['http://localhost:3000','*'],
+];

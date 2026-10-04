@@ -1,0 +1,2 @@
+ALTER TABLE homework
+    MODIFY subject_id BIGINT UNSIGNED NULL;
